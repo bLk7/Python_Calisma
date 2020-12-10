@@ -3,7 +3,7 @@ x = 'ali,veli,selami'
 y='mahmut abi buraya bak'
 
 print(x)
-
+#ben de buradayım
 print(len(x))
 
 print(x.split(','))
