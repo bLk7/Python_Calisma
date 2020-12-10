@@ -10,7 +10,7 @@ print(x.split(','))
  
 print(y[0:])
 print("deneme")
-
+a
 print(x.title())
 print(x.upper())
 print(x.lower())
