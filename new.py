@@ -1,7 +1,7 @@
 x = 'ali,veli,selami'
 
 y='mahmut abi buraya bak'
-
+#merhaba
 print(x)
 
 print(len(x))
