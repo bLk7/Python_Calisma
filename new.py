@@ -9,6 +9,7 @@ print(len(x))
 print(x.split(','))
  
 print(y[0:])
+print("deneme")
 
 print(x.title())
 print(x.upper())
